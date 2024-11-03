@@ -1,7 +1,7 @@
-const add =(a,b) => a + b;
-const subtract =(a,b) => a - b;
-const multiplay =(a,b) => a * b;
-const divide =(a,b) => a / b;
+exports.add =(a,b) => a + b;
+exports.subtract =(a,b) => a - b;
+exports.multiplay =(a,b) => a * b;
+exports.divide =(a,b) => a / b;
 
 
-module.exports = {add, subtract, divide, multiplay};
+// module.exports = {add, subtract, divide, multiplay};
