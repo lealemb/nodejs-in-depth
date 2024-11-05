@@ -1,0 +1,7 @@
+20241105	21:16:36	c6f638ee-b35f-47b4-8ca8-9cfec9986bfd	/new-page.html	GET
+20241105	21:16:36	0109b6e7-f92b-4e5e-9f56-ba2e8ee53781	/css/style.css	GET
+20241105	21:16:36	d6be31f9-fdba-4185-bc06-3961533cbf8c	/image/puppy.jpg	GET
+20241105	21:18:08	3c35baa4-cb0d-4ff1-bc79-9b1ff12999f1	/new-page.html	GET
+20241105	21:19:19	0279106b-6d28-45f5-9d48-ad1d856d2c97	/new-page.html	GET
+20241105	21:19:19	11ffbfea-573f-4c2c-88c7-beac6e5259ae	/css/style.css	GET
+20241105	21:19:19	7b174f94-dfd0-4d7c-bafa-c466a150f083	/image/puppy.jpg	GET
