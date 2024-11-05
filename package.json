@@ -1,16 +1,17 @@
 {
-  "name": "05tut",
+  "name": "06tut",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "",
+  "author": "Lealem Birhanu",
   "license": "ISC",
-  "description": "",
+  "description": "Express tutorial",
   "dependencies": {
     "date-fns": "^4.1.0",
+    "express": "^4.21.1",
     "uuid": "^11.0.2"
   },
   "devDependencies": {
