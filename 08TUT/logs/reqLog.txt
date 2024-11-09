@@ -1,0 +1,44 @@
+20241105	21:16:36	c6f638ee-b35f-47b4-8ca8-9cfec9986bfd	/new-page.html	GET
+20241105	21:16:36	0109b6e7-f92b-4e5e-9f56-ba2e8ee53781	/css/style.css	GET
+20241105	21:16:36	d6be31f9-fdba-4185-bc06-3961533cbf8c	/image/puppy.jpg	GET
+20241105	21:18:08	3c35baa4-cb0d-4ff1-bc79-9b1ff12999f1	/new-page.html	GET
+20241105	21:19:19	0279106b-6d28-45f5-9d48-ad1d856d2c97	/new-page.html	GET
+20241105	21:19:19	11ffbfea-573f-4c2c-88c7-beac6e5259ae	/css/style.css	GET
+20241105	21:19:19	7b174f94-dfd0-4d7c-bafa-c466a150f083	/image/puppy.jpg	GET
+20241107	14:13:24	38434dab-54a3-4c8b-b6e2-89f350d27345	GET	undefined	/
+20241107	14:13:24	a8cd48fb-41fa-4937-9e1d-33f4fc9b09fe	GET	undefined	/css/style.css
+20241107	14:15:44	648bc557-2342-4bb9-8d7b-bea97987da37	GET 	undefined	 /
+20241107	14:15:44	fc5537fa-42d6-429c-9a21-9cbe7f4c62fc	GET 	undefined	 /css/style.css
+20241107	14:21:36	d9efa38e-891a-414f-bf56-fc594873916e	OPTIONS 	https://www.google.com	 /
+20241107	14:21:36	4789b922-d758-460d-862c-709700d74a37	GET 	https://www.google.com	 /
+20241107	14:25:44	9e88af08-2b48-43fe-86ee-91895eb875b9	OPTIONS 	https://www.google.com	 /
+20241107	14:25:44	08e50ba5-9517-495a-9a99-b43a98d50e86	GET 	https://www.google.com	 /
+20241107	14:51:51	89433857-a326-4270-876f-a730ef96dcde	OPTIONS 	https://www.google.com	 /
+20241107	14:51:51	08d6bf35-9625-40d4-988b-33e7bc4c2bbe	GET 	https://www.google.com	 /
+20241107	21:35:34	58846062-b6a5-467c-98c1-b95fbb5d8842	GET 	undefined	 /
+20241107	21:35:36	b8b8ae7c-069d-4692-afc9-2dd1be1481a7	GET 	undefined	 /
+20241107	21:38:11	d22d55ac-1330-43fd-9e9c-60eca2a82a5b	OPTIONS 	https://www.google.com	 /
+20241107	21:38:11	b96b2c67-073f-4f44-9822-4d470c1d76ca	GET 	https://www.google.com	 /
+20241107	21:40:54	4c773815-f04f-4828-833e-98e11e7447a2	OPTIONS 	https://www.google.com	 /
+20241107	21:40:54	4540f469-b441-4653-b9c7-8c634e678a83	GET 	https://www.google.com	 /
+20241107	21:42:18	f2de6499-8075-405e-b64f-de7f12275c09	GET 	undefined	 /
+20241107	21:42:19	13d40b39-b654-4080-b622-9aeda7755c8a	GET 	undefined	 /
+20241107	21:42:32	f99321aa-fdbd-4312-a456-c9b36607f98a	GET 	undefined	 /
+20241107	21:42:50	e1fa112e-76d4-4524-8d4e-b23966a29da0	OPTIONS 	https://www.google.com	 /
+20241107	21:42:50	ffc8ec8c-e0f4-435e-ba37-e7eb07b475a2	GET 	https://www.google.com	 /
+20241107	22:23:19	fe74c6e1-84cb-46cb-8b16-83b2a16d2461	GET 	undefined	 /
+20241107	22:23:19	33661187-6b8a-4ed1-954c-cce9c16738f8	GET 	undefined	 /favicon.ico
+20241107	22:23:21	75fd96ec-803a-4619-b907-7a280246910c	GET 	undefined	 /
+20241107	22:23:21	4f379854-d6bf-4498-8ef4-86b576c6144c	GET 	undefined	 /favicon.ico
+20241107	22:25:41	ca8e4dcb-7a6b-49ce-a741-8b021fb36b37	GET 	undefined	 /
+20241107	22:25:41	1f58351f-605f-4b48-ad96-01dd05f74733	GET 	undefined	 /css/style.css
+20241107	22:25:41	676e5986-b3ed-4ac6-aac6-313bd97fd3eb	GET 	undefined	 /favicon.ico
+20241107	23:10:49	047699e6-7814-4fb3-8122-d26a57220650	GET 	undefined	 /
+20241107	23:10:50	67df887a-2a79-4c77-82f7-6565bf829fa0	GET 	undefined	 /
+20241107	23:12:42	151d45b2-53b6-431a-9a07-fcc3f713aebc	GET 	undefined	 /
+20241107	23:12:42	6c46eef6-856e-413b-a7f4-744bb0d2a5af	GET 	undefined	 /css/style.css
+20241108	23:00:02	3db1188b-9f0b-4b24-a8c2-ab117375d1dc	GET 	undefined	 /Lealem
+20241108	23:00:02	d96f0440-91f2-4a68-83f1-b3d65c9f7c8c	GET 	undefined	 /css/style.css
+20241108	23:00:02	ee36a3b4-41e5-4363-b4c5-b45bcb9ee51f	GET 	undefined	 /favicon.ico
+20241108	23:09:17	1a71862f-187e-49c8-a27a-199a314d215e	GET 	undefined	 /Lealem
+20241108	23:09:17	0bed3044-74fb-4a0a-8ff4-887c5556c101	GET 	undefined	 /css/style.css
