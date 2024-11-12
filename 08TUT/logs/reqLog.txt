@@ -112,3 +112,6 @@
 20241109	11:47:07	7d0a5ff3-78e6-48f6-ba1f-96d59ab00b0e	GET 	undefined	 /employees
 20241109	11:50:58	a6a0b4e6-2e6e-406c-bec9-7a989ed51b38	POST 	undefined	 /employees
 20241109	11:51:37	0e01fb24-3768-4934-9437-d0c66ad1337a	GET 	undefined	 /employees
+20241112	23:29:15	76b7a577-c380-4ff2-9d1f-b002568465e0	GET 	undefined	 /
+20241112	23:29:15	71d9ccc5-d079-4dd1-9569-759bbdfc1a31	GET 	undefined	 /css/style.css
+20241112	23:29:15	1d401509-6d3e-4dd8-895a-51c5320f7027	GET 	undefined	 /favicon.ico
