@@ -115,3 +115,9 @@
 20241112	23:29:15	76b7a577-c380-4ff2-9d1f-b002568465e0	GET 	undefined	 /
 20241112	23:29:15	71d9ccc5-d079-4dd1-9569-759bbdfc1a31	GET 	undefined	 /css/style.css
 20241112	23:29:15	1d401509-6d3e-4dd8-895a-51c5320f7027	GET 	undefined	 /favicon.ico
+20241113	09:42:04	9e368c5d-10fe-4fe2-9ef2-0930819fad96	GET 	undefined	 /
+20241113	09:42:04	5b6c8b36-c524-4bbd-8d91-519b54fda208	GET 	undefined	 /css/style.css
+20241113	09:42:04	e0a2f2bb-3112-4b53-93c8-8810a12499de	GET 	undefined	 /favicon.ico
+20241113	10:35:38	89a39aaf-8717-4848-9b78-15b84723f0dc	POST 	undefined	 /employees
+20241113	10:37:13	8d2d96e1-8445-4f34-8729-a3c013fc0f63	DELETE 	undefined	 /employees
+20241113	10:37:15	ffb57bc6-66b9-486b-82f2-148010bc752c	DELETE 	undefined	 /employees
