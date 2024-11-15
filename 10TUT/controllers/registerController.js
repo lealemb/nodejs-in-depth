@@ -1,0 +1,1 @@
+const registerController = require('../controllers/registerController');
