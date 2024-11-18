@@ -11,7 +11,6 @@ const PORT = process.env.PORT || 3500;
 //custom middleware logger
 app.use(logger);
 //cross origin resourse sharing
-
 app.use(cors(corsOptions));
 //built-in middleware to handle urlencoded form data
 app.use(express.urlencoded({extended: false}));
