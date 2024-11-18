@@ -23,6 +23,8 @@ app.use('/', express.static(path.join(__dirname, '/public')));
 
 //routes
 app.use('/', require ('./routes/root'));
+app.use('/register', require ('./routes/register'));
+app.use('/auth', require ('./routes/auth'));
 app.use('/employees', require('./routes/api/employees'));
 
 
