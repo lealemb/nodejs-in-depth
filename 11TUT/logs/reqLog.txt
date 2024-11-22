@@ -173,3 +173,10 @@
 20241119	10:08:32	c5a685f0-ee56-42fd-9cb3-572635f910e0	POST 	undefined	 /register
 20241119	10:10:11	7a895fd5-21d5-4862-9b0e-6a9efdf4ece7	POST 	undefined	 /auth
 20241119	10:10:51	e7e09c9b-96a7-42cf-be57-fd5a75bb8935	POST 	undefined	 /auth
+20241122	22:37:04	700c4497-9593-481f-a0f3-948ab7cece08	GET 	undefined	 /
+20241122	22:37:04	4e7b4c13-a379-4917-85c9-f3c6145517d3	GET 	undefined	 /css/style.css
+20241122	22:37:04	dc66942a-87cb-43dc-8d3d-8debe03a52b2	GET 	undefined	 /favicon.ico
+20241122	22:38:48	7024e765-3154-4efa-ae06-59f71ead58ed	POST 	undefined	 /auth
+20241122	22:46:34	61a2473f-69fd-4164-93a0-e10098cfb0d8	POST 	undefined	 /auth
+20241122	22:47:13	d9db2d45-8e07-45a6-849c-7a0bf8459bdf	POST 	undefined	 /auth
+20241122	22:50:25	d348a957-849f-4165-8509-832a29c7cad9	POST 	undefined	 /auth
