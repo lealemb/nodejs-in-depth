@@ -199,3 +199,6 @@
 20241124	11:26:54	668fccb0-f450-480f-ab4a-f43cc4c4bf82	GET 	undefined	 /employees
 20241124	11:26:56	8a98c7b5-f847-4ff0-b5bd-5fe73d1d51e5	GET 	undefined	 /employees
 20241124	11:27:04	f3248306-4832-491c-bca9-d27ca4382ff3	POST 	undefined	 /employees
+20241124	11:28:22	7d4f4cb2-31fc-422c-9785-41524002d078	POST 	undefined	 /auth
+20241124	11:29:23	5dbea814-9968-4ab4-8085-5f3f6b99304a	GET 	undefined	 /employees
+20241124	11:49:17	d9115667-908a-4f85-93b2-c993a2ed4cb7	POST 	undefined	 /auth
