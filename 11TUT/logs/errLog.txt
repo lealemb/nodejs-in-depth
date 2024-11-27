@@ -1,2 +1,3 @@
 20241107	23:10:49	cdf003dc-a397-4627-b0d7-dab3432509c9	Error: Not allowed by CORS
 20241107	23:10:50	bbd5b00e-7024-4dae-b74c-2d3d5e2473e0	Error: Not allowed by CORS
+20241127	11:41:14	1a5b6fbf-27e0-4f66-8661-7dfce342ff15	ReferenceError: cookies is not defined

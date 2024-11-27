@@ -216,3 +216,14 @@
 20241125	11:04:20	cc525685-61aa-4002-bd5a-2ab146b162a9	GET 	undefined	 /refresh
 20241125	11:04:21	81677b52-92f3-4fb7-b78b-93534579880e	GET 	undefined	 /refresh
 20241125	11:04:23	b2c5187b-5f9e-402a-b023-509fe3692a94	GET 	undefined	 /refresh
+20241127	10:56:52	7d404ad8-857c-4ddd-9eeb-1e2ff823b484	GET 	undefined	 /
+20241127	10:56:52	c5b29bbf-c2d7-433e-9740-c35713fa79aa	GET 	undefined	 /css/style.css
+20241127	10:56:53	d45c170d-1cc8-4dd6-b3ec-7700ed0a1fa2	GET 	undefined	 /favicon.ico
+20241127	10:59:57	14d541bf-9b22-4527-b9ba-e05a6e972d2a	POST 	undefined	 /employees
+20241127	11:00:31	8d1dee50-952e-4963-ae90-4f9a1a483475	POST 	undefined	 /employees
+20241127	11:03:42	9e40d483-2de7-4959-927d-c778df9ea04f	POST 	undefined	 /employees
+20241127	11:03:54	902db15d-6691-4808-a924-081c20207c08	POST 	undefined	 /auth
+20241127	11:06:51	78338ee2-0565-45e2-855b-090f3d39f4c3	GET 	undefined	 /logout
+20241127	11:08:39	a714a8c3-615e-4116-828c-084af0c9df03	GET 	undefined	 /refresh
+20241127	11:41:14	8693945f-3db6-4d50-a9da-054bb6872022	GET 	undefined	 /refresh
+20241127	11:43:32	c8a7de68-1102-41dd-9095-1c35b293f63b	POST 	undefined	 /auth
