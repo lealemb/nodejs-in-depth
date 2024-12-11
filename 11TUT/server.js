@@ -15,7 +15,7 @@ app.use(logger);
 // and fetch cookies credentials requirement
 app.use(credentials);
 
-//cross origin resourse sharing
+//cross origin resourse shariging
 app.use(cors(corsOptions));
 //built-in middleware to handle urlencoded form data
 app.use(express.urlencoded({extended: false}));
