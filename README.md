@@ -1,4 +1,4 @@
-# **Node.js In-Depth Tutorial – Dave Gray**
+# **Node.js In-Depth Tutorial **
 
 This repository follows the **Node.js in-depth tutorial with Dave Gray**, covering essential concepts 
 such as modules, file handling, HTTP servers, middleware, and working with databases.
