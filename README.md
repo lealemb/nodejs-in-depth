@@ -70,7 +70,6 @@ npx nodemon index.js
 
 ## **📚 Resources & Learning Materials**
 - [Node.js Official Docs](https://nodejs.org/en/docs/)  
-- [Dave Gray’s YouTube Playlist](https://www.youtube.com/@DaveGray)  
 - [Express.js Guide](https://expressjs.com/en/starter/hello-world.html)  
 
 ## **📝 Contributing**
